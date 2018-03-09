@@ -5,6 +5,14 @@ public class TestClassSecond {
         field = "Hello World!";
     }
 
+    public String getField() {
+        return field;
+    }
+
+    public void setField(String field) {
+        this.field = field;
+    }
+
     @Override
     public String toString() {
         return this.field;
