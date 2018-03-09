@@ -1,3 +1,5 @@
+package com.company.test;
+
 public class TestClassSecond {
     protected String field;
 

@@ -1,3 +1,5 @@
+package com.company.test;
+
 public class VetkaClass {
     protected int age;
     protected String name;
