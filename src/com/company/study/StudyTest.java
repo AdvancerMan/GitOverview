@@ -1,9 +1,9 @@
 package com.company.study;
 
-import static com.company.study.reverse_a_string.ReverseString.test;
+import static com.company.study.strings.ReverseString.reverseString;
 
 public class StudyTest {
     public static void main(String[] args) {
-        test();
+        System.out.println(reverseString("Asd"));
     }
 }
